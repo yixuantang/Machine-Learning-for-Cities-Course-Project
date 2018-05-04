@@ -10,4 +10,4 @@ __Team Member__
  Yixuan Tang[(yixuantang)](https://github.com/yixuantang)
 
 
-## See our [Final report](https://github.com/yixuantang/Machine-Learning-for-Cities-Course-Project/blob/master/MachineLearningFinalReport_Group4.pdf) for details.
+* See our [Final report](https://github.com/yixuantang/Machine-Learning-for-Cities-Course-Project/blob/master/MachineLearningFinalReport_Group4.pdf) for details.
